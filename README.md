@@ -1,9 +1,13 @@
-### Hi there :wave:
-## I'm André :slightly_smiling_face:
-- I live in Brazil :brazil:
-- I'm studying Front-End development at <a href="https://www.alura.com.br/">Alura</a>. :man_student:
+<h1 align="center">Hi 👋, I'm André</h1>
+<h3 align="center">I'm a beginner in Front-End development. 👨‍💻</h3>
 
-<img align="right" src="https://thumbs.gfycat.com/GoodFlashyEyelashpitviper-max-1mb.gif" width="100" height="100"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=andre-possam&label=Profile%20views&color=0e75b6&style=flat" alt="andre-possan" /> </p>
+
+- ✔ I live in Brazil 🇧🇷
+- :man_student: I'm studying Front-End development at <a href="https://www.alura.com.br/">Alura</a>. 
+- 📫 Contact email → **andrecorsopossan@gmail.com**
+
+<img align="right" src="https://thumbs.gfycat.com/GoodFlashyEyelashpitviper-max-1mb.gif" height="100"/>
 
 ## My Skills :man_technologist:  and  GitHub Stats :bar_chart:
 
