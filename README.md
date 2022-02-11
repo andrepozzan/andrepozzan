@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andre-possam&label=Profile%20views&color=0e75b6&style=flat" alt="andre-possan" /> </p>
 
 - ✔ I live in Brazil 🇧🇷
+- :scroll: My Portfólio: <a href="https://andre-possan.github.io/">andre-possan.github.io</a>
 - :man_student: I'm studying Front-End development at <a href="https://www.alura.com.br/">Alura</a>. 
 - 📫 Contact email → **andrecorsopossan@gmail.com**
 
@@ -23,7 +24,3 @@
 <a href="https://www.youtube.com/channel/UCKzQzQKAzqBikUPEFh2SZPA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://discord.gg/qCSaTbV" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 <a href = "mailto:andrecorsopossan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-## My current project :desktop_computer:
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andre-possan&border_color=334152&bg_color=DEG,111e2e,010810&title_color=fff&text_color=b7d1e6&repo=andre-possan.github.io)](https://github.com/andre-possan/andre-possan.github.io)
