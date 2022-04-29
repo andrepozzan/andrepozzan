@@ -12,7 +12,7 @@
 
 ## My Skills :man_technologist:  and  GitHub Stats :bar_chart:
 
-<img aling="center" alt="html" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"><img aling="center" alt="css" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"><img aling="center" alt="javascript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+<img aling="center" alt="html" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"><img aling="center" alt="css" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"><img aling="center" alt="javascript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"><img aling="center" alt="figma" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/><img aling="center" alt="git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 <a href="https://github.com/andre-possan">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre-possan&langs_count=7&border_color=334152&bg_color=DEG,111e2e,010810&title_color=fff&text_color=b7d1e6&layout=compact"/>
