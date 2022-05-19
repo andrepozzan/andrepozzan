@@ -8,7 +8,9 @@
 - :man_student: I'm studying Front-End development at <a href="https://www.alura.com.br/">Alura</a>. 
 - 📫 Contact email → **andrecorsopossan@gmail.com**
 
-<img align="right" src="https://thumbs.gfycat.com/GoodFlashyEyelashpitviper-max-1mb.gif" height="100"/>
+<div align="right" style="float: right;">
+<img src="https://thumbs.gfycat.com/GoodFlashyEyelashpitviper-max-1mb.gif" height="100"/>
+</div>
 
 ## My Skills :man_technologist:  and  GitHub Stats :bar_chart:
 
