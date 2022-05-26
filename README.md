@@ -8,10 +8,6 @@
 - :man_student: I'm studying Front-End development at <a href="https://www.alura.com.br/">Alura</a>. 
 - 📫 Contact email → **andrecorsopossan@gmail.com**
 
-<div align="right" style="float: right;">
-<img src="https://thumbs.gfycat.com/GoodFlashyEyelashpitviper-max-1mb.gif" height="100"/>
-</div>
-
 ## My Skills :man_technologist:  and  GitHub Stats :bar_chart:
 
 <img aling="center" alt="html" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"><img aling="center" alt="css" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"><img aling="center" alt="javascript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"><img aling="center" alt="figma" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/><img aling="center" alt="git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
