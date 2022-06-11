@@ -1,13 +1,13 @@
 <h1 align="center">Hi <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif width="35">, I'm < André/ ></h1>
 <h3 align="center">
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="35">
-  <img alt="I'm+a+beginner+Front+End+dev!" src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=I'm+a+beginner+Front+End+dev!">
+  <img alt="I'm+a+beginner+Front+End+dev!" src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=I'm+a+beginner+Front-End+dev!">
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="35">
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andre-possam&label=Profile%20views&color=0e75b6&style=flat" alt="andre-possan" /> </p>
 
-- ✔ I live in Brazil 🇧🇷
+- ✔ I live in Brazil 🇧🇷 <img src="https://i.pinimg.com/originals/88/a0/91/88a09146a4fee4b211120f93fbf48f79.gif" width="25">
 - :scroll: My Portfólio: <a href="https://andre-possan.github.io/">andre-possan.github.io</a>
 - :man_student: I'm studying Front-End development at <a href="https://www.alura.com.br/">Alura</a>. 
 - 📫 Contact email → **andrecorsopossan@gmail.com**
