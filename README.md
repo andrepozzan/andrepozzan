@@ -19,10 +19,10 @@
 </div>
 
 <div align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre-possan&langs_count=7&border_color=334152&bg_color=DEG,111e2e,010810&title_color=fff&text_color=b7d1e6&layout=compact"/>
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=andre-possan&show_icons=true&border_color=334152&bg_color=DEG,010810,111e2e&title_color=fff&text_color=b7d1e6&include_all_commits=true&count_private=true"/>
-  <img height="150px" src="https://github-readme-streak-stats.herokuapp.com?user=andre-possan&background=111E2E&border=334152&currStreakNum=FFFFFF&fire=00FFFC&sideLabels=00FFFC&ring=2300FF&currStreakLabel=00FFFC&sideNums=FFFFFF&dates=B7D1E6"/>
-</a>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre-possan&langs_count=7&border_color=334152&bg_color=DEG,010810,111e2e&title_color=fff&text_color=b7d1e6&layout=compact"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=andre-possan&show_icons=true&border_color=334152&bg_color=DEG,111e2e,010810&title_color=fff&text_color=b7d1e6&include_all_commits=true&count_private=true"/>
+  <img height="150px" src="https://github-readme-streak-stats.herokuapp.com?user=andre-possan&background=111E2E&border=334152&currStreakNum=FFFFFF&fire=07CBFF&sideLabels=07CBFF&ring=2300FF&currStreakLabel=07CBFF&sideNums=FFFFFF&dates=B7D1E6"/>
+</div>
 
 <h2></h2>
   
