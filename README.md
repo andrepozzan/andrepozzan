@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm < André/ ></h1>
-<h3 align="center">I'm a beginner in Front-End development. 👨‍💻</h3>
+<h1 align="center">Hi <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif width="35">, I'm < André/ ></h1>
+<h3 align="center">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="35">
+  <img alt="I'm+a+beginner+Front+End+dev!" src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=I'm+a+beginner+Front+End+dev!">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="35">
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andre-possam&label=Profile%20views&color=0e75b6&style=flat" alt="andre-possan" /> </p>
 
