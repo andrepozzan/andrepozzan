@@ -31,11 +31,9 @@
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=andre-possan&show_icons=true&border_color=334152&bg_color=DEG,111e2e,010810&title_color=fff&text_color=b7d1e6&include_all_commits=true&count_private=true"/>
   <img height="150px" src="https://github-readme-streak-stats.herokuapp.com?user=andre-possan&background=111E2E&border=334152&currStreakNum=FFFFFF&fire=07CBFF&sideLabels=07CBFF&ring=2300FF&currStreakLabel=07CBFF&sideNums=FFFFFF&dates=B7D1E6"/>
 </div>
-  
-<details>
-<summary><h3>:bar_chart: Metrics :chart_with_upwards_trend:</h3></summary>
-<img src="https://metrics.lecoq.io/andre-possan?template=classic&languages=1&lines=1&repositories=1&achievements=1&base.indepth=false&base.hireable=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FSao_Paulo"/>
-</details> 
-  
+
 <h1>:space_invader:	Contributions :rocket:</h1>
 <img src="./profile-3d-contrib/profile-night-view.svg"/>
+
+<div align="center">
+<img width="60%" src="https://metrics.lecoq.io/andre-possan?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&base.indepth=false&base.hireable=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=America%2FSao_Paulo"/></div>
