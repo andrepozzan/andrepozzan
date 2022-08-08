@@ -12,7 +12,7 @@
 - :man_student: I'm studying Front-End development at <a href="https://www.alura.com.br/">Alura</a>. 
 - 📫 Contact email → **andrecorsopossan@gmail.com**
 
-<a href="https://www.youtube.com/channel/UCKzQzQKAzqBikUPEFh2SZPA" target="_blank"><img src="assets/img/Youtube.svg" target="_blank"></a>
+<a href="https://www.youtube.com/channel/UCKzQzQKAzqBikUPEFh2SZPA" target="_blank"><img src="assets/img/YouTube.svg" target="_blank"></a>
 <a href="https://discord.gg/TabP58u6NR" target="_blank"><img src="assets/img/Discord.svg" target="_blank"></a>
 <a href = "mailto:andrecorsopossan@gmail.com"><img src="assets/img/Gmail.svg" target="_blank"></a>
   
