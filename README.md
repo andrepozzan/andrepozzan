@@ -1,20 +1,20 @@
-<h1 align="center">Hi <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif width="35">, I'm < André/ ></h1>
+<h1 align="center">Hi <img src="assets/img/Hi.gif" width="35">, I'm < André/ ></h1>
 <h3 align="center">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="35">
+  <img src="assets/img/Earth.gif" width="35">
   <img alt="I'm+a+beginner+Front+End+dev!" src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=I'm+a+beginner+Front-End+dev!">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="35">
+  <img src="assets/img/PC.gif" width="35">
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andre-possam&label=Profile%20views&color=0e75b6&style=flat" alt="andre-possan" /> </p>
 
-- ✔ I live in Brazil 🇧🇷 <img src="https://i.pinimg.com/originals/88/a0/91/88a09146a4fee4b211120f93fbf48f79.gif" width="25">
+- ✔ I live in Brazil 🇧🇷 <img src="assets/img/Brazil.gif" width="25">
 - :scroll: My Portfólio: <a href="https://andre-possan.github.io/">andre-possan.github.io</a>
 - :man_student: I'm studying Front-End development at <a href="https://www.alura.com.br/">Alura</a>. 
 - 📫 Contact email → **andrecorsopossan@gmail.com**
 
-<a href="https://www.youtube.com/channel/UCKzQzQKAzqBikUPEFh2SZPA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://discord.gg/TabP58u6NR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-<a href = "mailto:andrecorsopossan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.youtube.com/channel/UCKzQzQKAzqBikUPEFh2SZPA" target="_blank"><img src="assets/img/Youtube.svg" target="_blank"></a>
+<a href="https://discord.gg/TabP58u6NR" target="_blank"><img src="assets/img/Discord.svg" target="_blank"></a>
+<a href = "mailto:andrecorsopossan@gmail.com"><img src="assets/img/Gmail.svg" target="_blank"></a>
   
 <h2>My Skills :man_technologist:  and  GitHub Stats :bar_chart:</h2>
   
