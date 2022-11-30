@@ -7,15 +7,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andre-possam&label=Profile%20views&color=0e75b6&style=flat" alt="andre-possan" /> </p>
 
-- ✔ I live in Brazil 🇧🇷 <img src="assets/img/Brazil.gif" width="25">
-- :scroll: My Portfólio: <a href="https://andre-possan.github.io/">andre-possan.github.io</a>
-- :man_student: I'm studying Front-End development at <a href="https://www.alura.com.br/">Alura</a>. 
-- 📫 Contact email → **andrecorsopossan@gmail.com**
+-   ✔ I live in Brazil 🇧🇷 <img src="assets/img/Brazil.gif" width="25">
+-   :scroll: My Portfólio: <a href="https://andre-possan.github.io/">andre-possan.github.io</a>
+-   :man_student: I'm studying Front-End development at <a href="https://www.alura.com.br/">Alura</a>.
+-   📫 Contact email → **andrecorsopossan@gmail.com**
 
 <a href="https://www.youtube.com/channel/UCKzQzQKAzqBikUPEFh2SZPA" target="_blank"><img src="assets/img/YouTube.svg" target="_blank"></a>
 <a href="https://discord.gg/TabP58u6NR" target="_blank"><img src="assets/img/Discord.svg" target="_blank"></a>
 <a href = "mailto:andrecorsopossan@gmail.com"><img src="assets/img/Gmail.svg" target="_blank"></a>
-  
+
 <h2>My Skills :man_technologist:  and  GitHub Stats :bar_chart:</h2>
   
 <div align="center">
@@ -33,7 +33,7 @@
 </div>
 
 <h1>:space_invader:	Contributions :rocket:</h1>
-<img src="./profile-3d-contrib/profile-night-view.svg"/>
+<img src="./profile-3d-contrib/profile-night-rainbow.svg"/>
 
 <div align="center">
 <img width="60%" src="https://metrics.lecoq.io/andre-possan?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&base.indepth=false&base.hireable=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=America%2FSao_Paulo"/></div>
