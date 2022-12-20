@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="assets/img/Hi.gif" width="35">, I'm < André/ ></h1>
 <h3 align="center">
   <img src="assets/img/Earth.gif" width="35">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=2000&color=00F7A2&center=true&vCenter=true&width=500&height=30&lines=Front-End+Developer+%7C+Studying+at+Alura" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=2000&color=84aecc&center=true&vCenter=true&width=500&height=30&lines=Front-End+Developer+%7C+Studying+at+Alura" alt="Typing SVG" />
   <img src="assets/img/PC.gif" width="35">
 </h3>
 
