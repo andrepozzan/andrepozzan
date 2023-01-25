@@ -1,4 +1,6 @@
-<h1 align="center">Hi <img src="assets/img/Hi.gif" width="35">, I'm < André/ ></h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=84aecc&height=120&section=header"/>
+<h1 align="center">Hi <img src="assets/img/Hi.gif" width="35px">, I'm < André/ ></h1>
+
 <h3 align="center">
   <img src="assets/img/Earth.gif" width="35">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=2000&color=84aecc&center=true&vCenter=true&width=500&height=30&lines=Front-End+Developer+%7C+Studying+at+Alura" alt="Typing SVG" />
