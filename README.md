@@ -38,3 +38,4 @@
 
 <div align="center">
 <img width="60%" src="https://metrics.lecoq.io/andrepozzan?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&base.indepth=false&base.hireable=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=America%2FSao_Paulo"/></div>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=84aecc&height=120&section=footer"/>
