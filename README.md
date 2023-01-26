@@ -20,14 +20,35 @@
 
 <h2>My Skills :man_technologist:  and  GitHub Stats :bar_chart:</h2>
   
-<div align="center">
+<table align="center" width="100%">
+  <tr width="100%">
+    <td>
     <img alt="html" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
+    </td>
+    <td>
     <img alt="css" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
+    </td>
+    <td>
     <img alt="sass" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+    </td>
+    <td>
     <img alt="javascript" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+    </td>
+    <td>
     <img alt="figma" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+    </td>
+    <td>
     <img alt="git" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-</div>
+    </td>
+    <td>
+    <img alt="tailwindcss" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
+    </td>
+    <td>
+    <img alt="bootstrap" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+    </td>
+  </tr>
+</table>
+
 <br>
 <div align="center">
   <img height="150px"src="https://github-readme-streak-stats.herokuapp.com?user=andrepozzan&background=111E2E&border=334152&currStreakNum=FFFFFF&fire=07CBFF&sideLabels=07CBFF&ring=2300FF&currStreakLabel=07CBFF&sideNums=FFFFFF&dates=B7D1E6"/>
