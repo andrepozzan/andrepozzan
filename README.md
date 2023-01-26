@@ -7,7 +7,12 @@
   <img src="assets/img/PC.gif" width="35">
 </h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andre-possam&label=Profile%20views&color=0e75b6&style=flat" alt="andre-pozzan" /> </p>
+
+<div>
+<img align="right" height="150px"src="https://github-readme-streak-stats.herokuapp.com?user=andrepozzan&background=111E2E&border=334152&currStreakNum=FFFFFF&fire=07CBFF&sideLabels=07CBFF&ring=2300FF&currStreakLabel=07CBFF&sideNums=FFFFFF&dates=B7D1E6"/>
+</div>  
 
 -   ✔ I live in Brazil 🇧🇷 <img src="assets/img/Brazil.gif" width="25">
 -   :scroll: My Portfólio: <a href="https://andrepozzan.github.io/">andrepozzan.github.io</a>
@@ -17,8 +22,8 @@
 <a href="https://www.youtube.com/channel/UCKzQzQKAzqBikUPEFh2SZPA" target="_blank"><img src="assets/img/YouTube.svg" target="_blank"></a>
 <a href="https://discord.gg/TabP58u6NR" target="_blank"><img src="assets/img/Discord.svg" target="_blank"></a>
 <a href = "mailto:andrepozzan.dev@gmail.com"><img src="assets/img/Gmail.svg" target="_blank"></a>
-
-<h2>My Skills :man_technologist:  and  GitHub Stats :bar_chart:</h2>
+  
+<h2>My Skills :man_technologist:</h2>
   
 <table align="center" width="100%">
   <tr width="100%">
@@ -48,11 +53,6 @@
     </td>
   </tr>
 </table>
-
-<br>
-<div align="center">
-  <img height="150px"src="https://github-readme-streak-stats.herokuapp.com?user=andrepozzan&background=111E2E&border=334152&currStreakNum=FFFFFF&fire=07CBFF&sideLabels=07CBFF&ring=2300FF&currStreakLabel=07CBFF&sideNums=FFFFFF&dates=B7D1E6"/>
-</div>
 
 <h1>:space_invader:	Contributions :rocket:</h1>
 <img src="./profile-3d-contrib/profile-night-rainbow.svg"/>
