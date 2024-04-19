@@ -3,7 +3,7 @@
 
 <h3 align="center">
   <img src="assets/img/Earth.gif" width="35">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=2000&color=84aecc&center=true&vCenter=true&width=500&height=30&lines=Front-End+Developer+%7C+Studying+at+Alura" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=2000&color=84aecc&center=true&vCenter=true&width=500&height=30&lines=Studying+Electrical+engineering+at+UFPR" alt="Typing SVG" />
   <img src="assets/img/PC.gif" width="35">
 </h3>
 
@@ -16,7 +16,9 @@
 
 -   ✔ I live in Brazil 🇧🇷 <img src="assets/img/Brazil.gif" width="25">
 -   :scroll: My Portfólio: <a href="https://andrepozzan.github.io/">andrepozzan.github.io</a>
--   :man_student: I'm studying Front-End development at <a href="https://www.alura.com.br/">Alura</a>.
+-   :man_student: I'm studying ⚡​Electrical Engineering⚡​ at <a href="https://ufpr.br">UFPR(Federal University of Paraná)</a>.
+-   I'm learning languages: English, French and Italian
+-   I like to do websites and electrical circuits⚡​
 -   📫 Contact email → **andrepozzan.dev@gmail.com**
 
 <a href="https://www.youtube.com/channel/UCKzQzQKAzqBikUPEFh2SZPA" target="_blank"><img src="assets/img/YouTube.svg" target="_blank"></a>
