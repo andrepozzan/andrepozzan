@@ -25,36 +25,24 @@
 
 <h2>My Skills :man_technologist:</h2>
   
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Gimp](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
+![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Pop OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
+
 <table align="center" width="100%">
-  <tr width="100%">
-    <td>
-    <img alt="html" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
-    </td>
-    <td>
-    <img alt="css" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
-    </td>
-    <td>
-    <img alt="sass" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-    </td>
-    <td>
-    <img alt="javascript" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-    </td>
-    <td>
-    <img alt="figma" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-    </td>
-    <td>
-    <img alt="git" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-    </td>
-    <td>
-    <img alt="tailwindcss" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
-    </td>
-    <td>
-    <img alt="bootstrap" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-    </td>
-    <td>
-    <img height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/>
-    </td>
-  </tr>
+
   <tr>
     <td>
     <img height="50" width="100" src="https://raw.githubusercontent.com/FreeCAD/FreeCAD/main/src/Gui/Icons/freecad.svg"/>
@@ -62,8 +50,15 @@
     <td>
     <img height="50" width="100" src="https://upload.wikimedia.org/wikipedia/commons/6/6e/AutoCad_new_logo.svg"/>
     </td>
+    <td>
+    <img height="50" width="100" src="https://qgis.org/styleguide/visual/qgis-logo.svg"/>
+    </td>
+    <td>
+    <img height="50" width="100" src="https://www.vixenlights.com/images/logo/vixen3-logo-435x165-transparent.png"/>
+    </td>
   </tr>
 </table>
+
 
 <h1>:space_invader:	Contributions :rocket:</h1>
 <img src="./profile-3d-contrib/profile-night-rainbow.svg"/>
