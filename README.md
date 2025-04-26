@@ -17,11 +17,11 @@
 </div>  
 
 -   ✔ I live in Brazil 🇧🇷 <img src="assets/img/Brazil.gif" width="25">
--   :scroll: My Portfólio: <a href="https://andrepozzan.github.io/">andrepozzan.github.io</a>
+-   :scroll: My Portfólio: <a href="https://andrepozzan.eng.br/">andrepozzan.eng.br</a>
 -   :man_student: I'm studying ⚡​Electrical Engineering⚡​ at <a href="https://ufpr.br">UFPR(Federal University of Paraná)</a>.
 -   I'm learning languages: English, French and Italian
 -   I like to do websites and electrical circuits⚡​
--   📫 Contact email → **andrepozzan.dev@gmail.com**
+-   📫 Contact email → **andrepozzan.dev@gmail.com** or **hire-me@andrepozzan.eng.br**
 
 <h2>My Skills :man_technologist:</h2>
   
